@@ -1,6 +1,6 @@
-package ds
+package part1
 
-import ds.Tree.{ Branch, Leaf }
+import part1.Tree.{ Branch, Leaf }
 import org.scalatest.{ Matchers, WordSpec }
 
 class TreeTest extends WordSpec with Matchers {

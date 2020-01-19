@@ -1,4 +1,4 @@
-package ds
+package part1
 
 sealed trait List[+A] {
   def head: A
