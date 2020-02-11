@@ -1,6 +1,6 @@
 package part1
 
-import part1.List.{append, filter, filterFlatMap, flatMap, map, plus1, product, reverse, sum}
+import part1.List._
 import org.scalatest.{FlatSpec, Matchers, WordSpec}
 
 class ListTest extends WordSpec with Matchers {
